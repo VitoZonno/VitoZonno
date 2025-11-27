@@ -31,10 +31,9 @@ Amo imparare, sperimentare e realizzare progetti che mi aiutino a crescere ogni 
 
 ---
 
-## 🖼️ Immagini tramite GitHub Camo
+## 🖼️ Tanti Repo!
 
-GitHub converte automaticamente le immagini esterne tramite **Camo**.  
-Non serve fare nulla: quando incolli un’immagine, GitHub genera da solo un link “camo”.
+Mi piace condividere con la gente i miei progetti all'interno dei **Repo**.  
 
 ---
 
