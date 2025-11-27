@@ -41,7 +41,7 @@ Non serve fare nulla: quando incolli un’immagine, GitHub genera da solo un lin
 ## 📫 Contatti
 
 - 🔗 GitHub: https://github.com/VitoZonno
-- 💬 Discord: *(se vuoi posso aggiungerlo)*
+- 💬 Discord: *privato*
 
 ---
 
