@@ -17,7 +17,6 @@ Amo imparare, sperimentare e realizzare progetti che mi aiutino a crescere ogni 
 ## 📊 Le mie GitHub Stats
 
 <p align="center">
-  <img src="https://gitstats-psi.vercel.app/api?username=VitoZonno&show_icons=true&theme=github_dark" height="165" />
   <img src="https://gitstats-psi.vercel.app/api/top-langs/?username=VitoZonno&layout=compact&theme=github_dark" height="165" />
 </p>
 
