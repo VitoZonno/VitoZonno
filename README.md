@@ -25,7 +25,7 @@ Amo imparare, sperimentare e realizzare progetti che mi aiutino a crescere ogni 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-ag.cyclic.app/graph/?username=VitoZonno&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+  <img src="https://github-readme-ag.vercel.app/graph/?username=VitoZonno&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
